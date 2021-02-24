@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+    color: rgb(190, 3, 3);
+    height: 95vh;   /* View port hight */
+    width: 95;
+    font-size: 30px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
